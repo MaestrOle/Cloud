@@ -1,0 +1,9 @@
+com\softserve\edu\service\impl\AddOperationService.class
+com\softserve\edu\service\impl\SubOperationService.class
+com\softserve\edu\entity\Person.class
+com\softserve\edu\Application.class
+com\softserve\edu\service\PersonService.class
+com\softserve\edu\service\OperationService.class
+com\softserve\edu\repository\PersonRepository.class
+com\softserve\edu\controller\PersonController.class
+com\softserve\edu\service\impl\PersonServiceImpl.class
