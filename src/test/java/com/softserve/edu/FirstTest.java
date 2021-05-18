@@ -12,7 +12,7 @@ public class FirstTest {
         System.out.println("THYMELEAF_USER = " + System.getenv("THYMELEAF_USER"));
         System.out.println("THYMELEAF_PASSWORD = " + System.getenv("THYMELEAF_PASSWORD"));
         System.out.println("JENKINS_VAR = " + System.getenv("JENKINS_VAR"));
-        Assertions.assertTrue(true);
+        Assertions.assertEquals(System.getenv("THYMELEAF_USER"), "Oleh");
     }
 
 }
